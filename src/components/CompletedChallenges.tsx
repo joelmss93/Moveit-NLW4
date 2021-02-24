@@ -1,5 +1,3 @@
-import React from 'react';
-
 import styles from '../styles/components/CompletedChallenges.module.css';
 
 export function CompletedChallenges() {
