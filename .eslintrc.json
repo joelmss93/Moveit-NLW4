@@ -34,6 +34,8 @@
     "@typescript-eslint/explicit-module-boundary-types": "off",
     "camelcase": "off",
     "no-shadow": "off",
+    "react/button-has-type": "warn",
+    "no-restricted-properties": "off",
     "react/jsx-props-no-spreading": "off",
     "react/jsx-one-expression-per-line": "off",
     "react/prop-types": "off",
